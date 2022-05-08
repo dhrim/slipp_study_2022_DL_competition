@@ -13,6 +13,8 @@
 
 # 데이터 전처리
 - 데이터 전처리 요약 : [data_processing_concise.ipynb](material/library/data_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/library/data_processing_concise.ipynb)
+- 2차 솔루션
+    - [flawed_iris_preprocessing.ipynb](material/library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/library/flawed_iris_preprocessing.ipynb)
 
 # ML, DL
 - ML 사용예 : [ML_classifiers.ipynb](material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/ML_classifiers.ipynb)
