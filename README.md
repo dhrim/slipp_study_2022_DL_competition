@@ -20,7 +20,10 @@
 - ML 사용예 : [ML_classifiers.ipynb](material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/ML_classifiers.ipynb)
 - 3차 솔루션
     - [202200501_pitcher_ML_classification.ipynb](material/solution/202200501_pitcher_ML_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_ML_classification.ipynb)
-
+- 4차 솔루션
+    - 미션 1 : [202200501_pitcher_DL_classification.ipynb](material/solution/202200501_pitcher_DL_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_classification.ipynb)
+    - 미션 2 : [202200501_pitcher_DL_sequence_classification.ipynb](material/solution/202200501_pitcher_DL_sequence_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_sequence_classification.ipynb)
+    
 # Keras Template
 
 - 속성 데이터
