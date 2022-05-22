@@ -18,6 +18,12 @@
 
 # ML, DL
 - ML 사용예 : [ML_classifiers.ipynb](material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/ML_classifiers.ipynb)
+- DL
+    - IRIS 분류 : [template_attribute_data_regression.ipynb](material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/template_attribute_data_regression.ipynb)
+    - 속성 데이터 분류 : [template_attribute_data_regression.ipynb](material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/template_attribute_data_regression.ipynb)
+    - 단일 숫자열 분류 : [template_numeric_sequence_data_classification.ipynb](material/deep_learning/template_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/template_numeric_sequence_data_classification.ipynb)
+    - 다중 숫자열 분류 : [template_multi_numeric_sequence_data_classification.ipynb](material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) 
+
 - 3차 솔루션
     - [202200501_pitcher_ML_classification.ipynb](material/solution/202200501_pitcher_ML_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_ML_classification.ipynb)
 - 4차 솔루션
