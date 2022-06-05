@@ -16,6 +16,11 @@
 - 2차 솔루션
     - [flawed_iris_preprocessing.ipynb](material/library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/library/flawed_iris_preprocessing.ipynb)
 
+# 성능 개선
+- 오버피칭 처리 : [dnn_in_keras_overfitting.ipynb](material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+- Ealry Stopping : [dnn_in_keras_callback.ipynb](material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb) 
+
+
 # ML, DL
 - ML 사용예 : [ML_classifiers.ipynb](material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/ML_classifiers.ipynb)
 - DL
@@ -29,7 +34,10 @@
 - 4차 솔루션
     - 미션 1 : [202200501_pitcher_DL_classification.ipynb](material/solution/202200501_pitcher_DL_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_classification.ipynb)
     - 미션 2 : [202200501_pitcher_DL_sequence_classification.ipynb](material/solution/202200501_pitcher_DL_sequence_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_sequence_classification.ipynb)
-    
+- 5차 솔루션 : [202200501_pitcher_DL_sequence_classification2.ipynb](material/solution/202200501_pitcher_DL_sequence_classification2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_sequence_classification2.ipynb)
+
+<br>
+
 # Keras Template
 
 - 속성 데이터
