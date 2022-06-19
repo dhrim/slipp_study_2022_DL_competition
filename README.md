@@ -30,11 +30,11 @@
     - 다중 숫자열 분류 : [template_multi_numeric_sequence_data_classification.ipynb](material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) 
 
 - 3차 솔루션
-    - [202200501_pitcher_ML_classification.ipynb](material/solution/202200501_pitcher_ML_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_ML_classification.ipynb)
+    - [class3_solution.ipynb](material/solution/class3_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/class3_solution.ipynb)
 - 4차 솔루션
-    - 미션 1 : [202200501_pitcher_DL_classification.ipynb](material/solution/202200501_pitcher_DL_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_classification.ipynb)
-    - 미션 2 : [202200501_pitcher_DL_sequence_classification.ipynb](material/solution/202200501_pitcher_DL_sequence_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_sequence_classification.ipynb)
-- 5차 솔루션 : [202200501_pitcher_DL_sequence_classification2.ipynb](material/solution/202200501_pitcher_DL_sequence_classification2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/202200501_pitcher_DL_sequence_classification2.ipynb)
+    - 미션 1 : [class4_mission1_solution.ipynb](material/solution/class4_mission1_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/class4_mission1_solution.ipynb)
+    - 미션 2 : [class4_mission2_solution.ipynb](material/solution/class4_mission2_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/class4_mission2_solution.ipynb)
+- 5차 솔루션 : [class5_solution.ipynb](material/solution/class5_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/slipp_study_2022_DL_competition/blob/master/material/solution/class5_solution.ipynb)
 
 <br>
 
